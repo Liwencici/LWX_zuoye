@@ -1,0 +1,6 @@
+﻿  lwxx.cpp
+c:\users\lwxx\source\repos\agreement5\agreement5\lwxx.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lwxx\source\repos\agreement5\agreement5\lwxx.cpp(224): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lwxx\source\repos\agreement5\agreement5\lwxx.cpp(192): warning C4101: “points”: 未引用的局部变量
+c:\users\lwxx\source\repos\agreement5\agreement5\lwxx.cpp(243): warning C4101: “points”: 未引用的局部变量
+  agreement5.vcxproj -> C:\Users\Lwxx\source\repos\agreement5\x64\Debug\lwxx.exe
